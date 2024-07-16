@@ -1,5 +1,5 @@
 
-Hi there!, my name is Yosvel Quintero and I'm a software engineer with a passion for creating high-quality, scalable, and maintainable applications. I am specialized in TypeScript, Nx, Angular, RxJS, NgRx, NestJS, and Appwrite.
+Hi there!, my name is Yosvel Quintero and I'm a software engineer with a passion for creating high-quality, scalable, and maintainable applications. I am specialized in Nx TypeScript[Angular, RxJS, NgRx, React, React Native, Redux, Vue, Nuxt, Pinia, NestJS], and PaaS[Appwrite, Supabase]
 
 #### Skills
 
@@ -15,13 +15,17 @@ Hi there!, my name is Yosvel Quintero and I'm a software engineer with a passion
 
 #### Hobbies
 
-In my free time, I enjoy staying up to date with the latest developments in the tech industry, participating in hackathons, and contributing to open source projects.
+In my free time, I enjoy staying up to date with the latest developments in the tech industry, participating in hackathons, and contributing to open source projects
 
 
 #### Socials
 
 - Twitter: [@yosvelquintero](https://twitter.com/yosvelquintero)
 - LinkedIn: [yosvelquintero](https://www.linkedin.com/in/yosvelquintero/)
+
+
+#### StackOverflow
+- StackOverflow: [Yosvel Quintero](https://stackoverflow.com/users/1932552/yosvel-quintero)
 
 
 
