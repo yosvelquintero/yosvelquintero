@@ -1,13 +1,12 @@
-
-Experienced Full-Stack Software Engineer with a strong foundation in Mathematics and Computation, proficient in JavaScript, TypeScript, and Node.js. Passionate about building scalable, user-friendly applications using modern front-end technologies. Seeking a dynamic role in a forward-thinking organization.
+**Experienced Full-Stack Software Engineer** with a strong foundation in Mathematics and Computation, proficient in JavaScript, TypeScript, and Node.js. Passionate about developing scalable, user-friendly applications using modern front-end technologies. Seeking a dynamic role in a forward-thinking organization.
 
 #### Skills
 
-- Proficient in JavaScript, TypeScript, Node.js, and various frameworks and libraries including Angular (RxJS, NgRx), React (React Native, Redux, Next.js), Vue (Vuex, Pinia, Nuxt.js), and NestJS (TypeORM, Mongoose). Experienced with MySQL, PostgreSQL, MongoDB, and SaaP platforms such as Appwrite and Supabase.
-- Strong understanding of software design patterns and principles
-- Experience with building and consuming APIs
-- Ability to write clean, efficient, and testable code
-- Experience with agile development methodologies
+- Proficient in JavaScript, TypeScript, Node.js, and various frameworks and libraries, including Angular (RxJS, NgRx), React (React Native, Redux, Next.js), Vue (Vuex, Pinia, Nuxt.js), and NestJS (TypeORM, Mongoose). Experienced with MySQL, PostgreSQL, MongoDB, and SaaP platforms like Appwrite and Supabase.
+- Strong understanding of software design patterns and principles.
+- Skilled in building and consuming APIs.
+- Committed to writing clean, efficient, and testable code.
+- Experienced in agile development methodologies.
 
 #### Education
 
