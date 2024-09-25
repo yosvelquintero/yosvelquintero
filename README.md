@@ -1,5 +1,5 @@
 
-Hi there!, my name is Yosvel Quintero and I'm a software engineer with a passion for creating high-quality, scalable, and maintainable applications. I am specialized in Nx TypeScript[Angular, RxJS, NgRx, React, React Native, Redux, Vue, Nuxt, Pinia, NestJS], and PaaS[Appwrite, Supabase]
+Experienced Full-Stack Software Engineer with a strong foundation in Mathematics and Computation, proficient in JavaScript, TypeScript, and Node.js. Passionate about building scalable, user-friendly applications using modern front-end technologies. Seeking a dynamic role in a forward-thinking organization.
 
 #### Skills
 
