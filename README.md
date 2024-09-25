@@ -3,7 +3,7 @@ Hi there!, my name is Yosvel Quintero and I'm a software engineer with a passion
 
 #### Skills
 
-- Proficiency in TypeScript, Nx, Angular, RxJS, NgRx, NestJS, and Appwrite
+- Proficient in JavaScript, TypeScript, Node.js, and various frameworks and libraries including Angular (RxJS, NgRx), React (React Native, Redux, Next.js), Vue (Vuex, Pinia, Nuxt.js), and NestJS (TypeORM, Mongoose). Experienced with MySQL, PostgreSQL, MongoDB, and SaaP platforms such as Appwrite and Supabase.
 - Strong understanding of software design patterns and principles
 - Experience with building and consuming APIs
 - Ability to write clean, efficient, and testable code
@@ -22,6 +22,7 @@ In my free time, I enjoy staying up to date with the latest developments in the 
 
 - Twitter: [@yosvelquintero](https://twitter.com/yosvelquintero)
 - LinkedIn: [yosvelquintero](https://www.linkedin.com/in/yosvelquintero/)
+- Arc: 
 
 
 #### StackOverflow
