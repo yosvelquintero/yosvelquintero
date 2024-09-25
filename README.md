@@ -19,9 +19,9 @@ In my free time, I enjoy staying up to date with the latest developments in the 
 
 #### Socials
 
-- Twitter: [@yosvelquintero](https://twitter.com/yosvelquintero)
+- Arc: [@yosvelquintero](https://arc.dev/@yosvelquintero)
 - LinkedIn: [yosvelquintero](https://www.linkedin.com/in/yosvelquintero/)
-- Arc: 
+- X: [@yosvelquintero](https://x.com/yosvelquintero)
 
 
 #### StackOverflow
