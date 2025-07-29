@@ -8,7 +8,7 @@ Lately, I've been integrating **AI agents** with **LangChain** and **LangGraph**
 ## 🧠 Key Skills
 
 - **Languages & Tools**: TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS  
-- **AI / Automation**: LangChain, LangGraph, AI Agents  
+- **AI / Automation**: AI Agents, LangChain, LangGraph  
 - **Frontend**: Next.js, React (Redux, Zustand), Angular (NgRx, RxJS), Vue (Pinia), Nuxt.js, Tailwind CSS, Shadcn/UI  
 - **Backend & APIs**: Node.js (NestJS, Hono, Express), GraphQL, REST, TypeORM, Drizzle ORM, Mongoose  
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
