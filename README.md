@@ -1,35 +1,46 @@
-**Experienced Full-Stack Software Engineer** with a strong foundation in Mathematics and Computation, proficient in JavaScript, TypeScript, and Node.js. Passionate about developing scalable, user-friendly applications using modern front-end technologies. Seeking a dynamic role in a forward-thinking organization.
+# 👨‍💻 Yosvel Quintero Arguelles
 
-#### Skills
+**Experienced Full-Stack Software Engineer** with 15+ years of industry expertise and a strong foundation in Mathematics and Computation.  
+I specialize in building scalable SaaS platforms and intelligent systems using **TypeScript**, **Node.js**, and modern front-end frameworks like **React**, **Vue**, and **Angular**. I enjoy designing clean architectures, optimizing performance, and leading high-impact remote teams.
 
-- Proficient in JavaScript, TypeScript, Node.js, and various frameworks and libraries, including Angular (RxJS, NgRx), React (React Native, Redux, Next.js), Vue (Vuex, Pinia, Nuxt.js), and NestJS (TypeORM, Mongoose). Experienced with MySQL, PostgreSQL, MongoDB, and SaaP platforms like Appwrite and Supabase.
-- Strong understanding of software design patterns and principles.
-- Skilled in building and consuming APIs.
-- Committed to writing clean, efficient, and testable code.
-- Experienced in agile development methodologies.
+Lately, I've been integrating **AI agents** with **LangChain** and **LangGraph**, developing automation pipelines and next-gen user workflows.
 
-#### Education
+## 🧠 Key Skills
 
-- BSc, Mathematics and Computation
+- **Languages & Tools**: TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS  
+- **AI / Automation**: LangChain, LangGraph, AI Agents  
+- **Frontend**: Next.js, React (Redux, Zustand), Angular (NgRx, RxJS), Vue (Pinia), Nuxt.js, Tailwind CSS, Shadcn/UI  
+- **Backend & APIs**: Node.js (NestJS, Hono, Express), GraphQL, REST, TypeORM, Drizzle ORM, Mongoose  
+- **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB, Redis  
+- **Cloud & DevOps**: AWS, Google Cloud, Azure, Docker, CI/CD (GitHub Actions, CircleCI)  
+- **Testing**: Jest, Mocha, Cypress, Playwright  
 
-#### Hobbies
+## 📘 Education
 
-In my free time, I enjoy staying up to date with the latest developments in the tech industry, participating in hackathons, and contributing to open source projects
+- **BSc in Mathematics and Computation**  
+  *University Silverio Blanco Núñez (Cuba)*
 
+## 🎯 What I’m Working On
 
-#### Socials
+- Building a multi-tenant platform with **Next.js**, **NestJS**, and **MongoDB**
+- Architecting secure GraphQL APIs and AI-enabled features using LangChain
+- Experimenting with monorepos, automation, and developer UX tools
+- Running a remote freelance practice and contributing to open source
 
-- Arc: [@yosvelquintero](https://arc.dev/@yosvelquintero)
-- LinkedIn: [yosvelquintero](https://www.linkedin.com/in/yosvelquintero/)
-- X: [@yosvelquintero](https://x.com/yosvelquintero)
+## 🌱 Hobbies
 
+In my free time, I explore emerging tech (AI agents, Web3), build tools, participate in hackathons, and contribute to open-source projects.  
+I also enjoy reflecting on life, visiting temples, and listening to Thai music.
 
-#### StackOverflow
-- StackOverflow: [Yosvel Quintero](https://stackoverflow.com/users/1932552/yosvel-quintero)
+## 🔗 Socials
 
+- **Arc.dev**: [@yosvelquintero](https://arc.dev/@yosvelquintero)  
+- **LinkedIn**: [yosvelquintero](https://www.linkedin.com/in/yosvelquintero/)    
+- **StackOverflow**: [Yosvel Quintero](https://stackoverflow.com/users/1932552/yosvel-quintero)  
+- **Twitter/X**: [@yosvelquintero](https://x.com/yosvelquintero)
 
+---
 
 <!---
 yosvelquintero/yosvelquintero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
