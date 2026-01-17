@@ -1,6 +1,6 @@
 # 👨‍💻 Yosvel Quintero Arguelles
 
-**Experienced Full-Stack Software Engineer** with 15+ years of industry expertise and a strong foundation in Mathematics and Computation.  
+**Full-Stack Software Engineer** with 15+ years of industry expertise and a strong foundation in Mathematics and Computation.  
 I specialize in building scalable SaaS platforms and intelligent systems using **TypeScript**, **Node.js**, and modern front-end frameworks like **React**, **Vue**, and **Angular**. I enjoy designing clean architectures, optimizing performance, and leading high-impact remote teams.
 
 Lately, I've been integrating **AI agents** with **LangChain** and **LangGraph**, developing automation pipelines and next-gen user workflows.
