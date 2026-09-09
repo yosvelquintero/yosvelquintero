@@ -12,11 +12,6 @@ Full-Stack Engineer with 15+ years architecting and scaling multi-tenant SaaS pl
 - **Cloud & DevOps**: AWS, Google Cloud, Azure, Docker, CI/CD (GitHub Actions, CircleCI)
 - **Testing**: Jest, Vitest, Cypress, Playwright
 
-## Education
-
-- **BSc in Mathematics and Computation**  
-  *University Silverio Blanco Núñez (Cuba)*
-
 ## What I’m Working On
 
 - Building a multi-tenant platform with **Next.js**, **NestJS**, and **Supabase**
@@ -28,6 +23,11 @@ Full-Stack Engineer with 15+ years architecting and scaling multi-tenant SaaS pl
 
 In my free time, I explore emerging tech (AI agents), build tools, participate in hackathons, and contribute to open-source projects.  
 I also enjoy reflecting on life, visiting temples, and listening to Thai music.
+
+## Education
+
+- **BSc in Mathematics and Computation**  
+  *University Silverio Blanco Núñez (Cuba)*
 
 ## Socials
 
